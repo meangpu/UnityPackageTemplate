@@ -1,2 +1,2 @@
-# U.MeTemplate
+# UnityPackageTemplate  
 for unity package template
