@@ -1,6 +1,4 @@
-# UnityPackageTemplate
-
-create for make modular audio manager
+# UnityPackage
 
 install via
 
